@@ -14,6 +14,7 @@ for i in range(1, 11):
 sum = 0
 num = 0
 while num <= 100:
-    num = num +1
+    num = num + 1
     sum += num  # same thing as sum = sum + num
+print(sum)
 

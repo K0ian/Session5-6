@@ -46,4 +46,4 @@ if num == num[::-1]:
 else:
     print(f"{num} is not a palindrome")
 
-multiply(2, 5)
+print(multiply(2, 5))
